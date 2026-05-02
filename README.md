@@ -251,4 +251,3 @@ domains/_template.md を参考にカプセルを作って、
 ## ライセンス
 
 サンプルとして自由に利用・改変してください。
-# create-prompt-niji7-sample
