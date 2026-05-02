@@ -48,11 +48,9 @@ Git の知識は不要です。ただし「あとから本家の更新を取り�
 ターミナルを開いて、置きたい場所で以下を実行します。
 
 ```bash
-git clone https://github.com/<ユーザー名>/create-prompt-niji7-sample.git
+git clone https://github.com/mae616/create-prompt-niji7-sample.git
 cd create-prompt-niji7-sample
 ```
-
-> `<ユーザー名>` の部分は、このリポジトリの実際のURLに置き換えてください（GitHub ページのアドレスバーから確認できます）。
 
 本家が更新されたら `git pull` で最新を取り込めます。
 
